@@ -1,0 +1,1 @@
+This is a microrepo with a working example of PyTorch in Rust for the titanic classification task ([see Kaggle competition](https://www.kaggle.com/competitions/titanic/)).
